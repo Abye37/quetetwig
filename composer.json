@@ -1,0 +1,15 @@
+{
+    "name": "abie/twig",
+    "description": "testtwig",
+    "type": "projet",
+    "authors": [
+        {
+            "name": "Mayte",
+            "email": "malapert.mayte@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
